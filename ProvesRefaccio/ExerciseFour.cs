@@ -1,8 +1,8 @@
-using System;
+/*using System;
 
-class Program
+class None
 {
-    static void Main(string[] args)
+    static void None(string[] args)
     {
         // Sol·licita l'entrada de l'usuari per calcular l'àrea d'un rectangle
         Console.WriteLine("Introdueix l'amplada del rectangle:");
@@ -35,4 +35,4 @@ class Program
             Console.WriteLine("L'àrea és menor o igual a 20");
         }
     }
-}
+}*/
